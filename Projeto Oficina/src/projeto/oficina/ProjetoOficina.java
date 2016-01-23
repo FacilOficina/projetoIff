@@ -17,7 +17,7 @@ public class ProjetoOficina {
     public static void main(String[] args) {
             
         System.out.println("Teste");
-        System.out.println("Novo print");
+        System.out.println("Novo print 2");
     }
     
 }
